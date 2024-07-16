@@ -1,110 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T03:18:07.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="vKqE5dz0URwiuDAEKw42" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T04:39:05.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="HekMZGMa-5v9MEIcJM2Z" version="24.6.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="795" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-1" target="aVy8gvsZeT_dXRaZOsSa-2">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" parent="1" source="aVy8gvsZeT_dXRaZOsSa-1" target="aVy8gvsZeT_dXRaZOsSa-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-1" value="FeedViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-1" value="FeedViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-2" value="UIViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-2" value="UIViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-4" value="1. Inherits from" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-4" value="1. Inherits from" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-5" value="2. Conforms to / implements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-5" value="2. Conforms to / implements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="160" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;dashed=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-6" target="aVy8gvsZeT_dXRaZOsSa-7">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;dashed=1;" parent="1" source="aVy8gvsZeT_dXRaZOsSa-6" target="aVy8gvsZeT_dXRaZOsSa-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-6" value="MyHTTPClient" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-6" value="MyHTTPClient" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-7" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-7" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-9" value="3. Depends on / strong dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-9" value="3. Depends on / strong dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="300" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-10" target="aVy8gvsZeT_dXRaZOsSa-11">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aVy8gvsZeT_dXRaZOsSa-10" target="aVy8gvsZeT_dXRaZOsSa-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-10" value="RemoteFeedLoader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-10" value="RemoteFeedLoader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-11" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-11" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-13" value="4. Depends on / weak dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-13" value="4. Depends on / weak dependency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="450" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-14" target="aVy8gvsZeT_dXRaZOsSa-15">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="aVy8gvsZeT_dXRaZOsSa-14" target="aVy8gvsZeT_dXRaZOsSa-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-14" value="RemoteFeedLoader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-14" value="RemoteFeedLoader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="60" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-15" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-15" value="&amp;lt;HTTPClient&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-17" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; font-size: 9px; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 1.428571; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px;&quot;&gt;class RemoteFeedLoader {&lt;br style=&quot;font-size: 9px;&quot;&gt;  func load(with client: HTTPClient) {&lt;br style=&quot;font-size: 9px;&quot;&gt;    client.doSomething()&lt;br style=&quot;font-size: 9px;&quot;&gt;  }&lt;br style=&quot;font-size: 9px;&quot;&gt;}&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-17" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; font-size: 9px; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 1.428571; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px;&quot;&gt;class RemoteFeedLoader {&lt;br style=&quot;font-size: 9px;&quot;&gt;  func load(with client: HTTPClient) {&lt;br style=&quot;font-size: 9px;&quot;&gt;    client.doSomething()&lt;br style=&quot;font-size: 9px;&quot;&gt;  }&lt;br style=&quot;font-size: 9px;&quot;&gt;}&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="380" y="455" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-18" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; font-size: 9px; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 1.428571; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px;&quot;&gt;class RemoteFeedLoader {&lt;br style=&quot;font-size: 9px;&quot;&gt;  private let client: HTTPClient&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;  init(client: HTTPClient) {&lt;br style=&quot;font-size: 9px;&quot;&gt;    self.client = client&lt;br style=&quot;font-size: 9px;&quot;&gt;  }&lt;br style=&quot;font-size: 9px;&quot;&gt;}&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-18" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; font-size: 9px; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 1.428571; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px;&quot;&gt;class RemoteFeedLoader {&lt;br style=&quot;font-size: 9px;&quot;&gt;  private let client: HTTPClient&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;  init(client: HTTPClient) {&lt;br style=&quot;font-size: 9px;&quot;&gt;    self.client = client&lt;br style=&quot;font-size: 9px;&quot;&gt;  }&lt;br style=&quot;font-size: 9px;&quot;&gt;}&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="380" y="305" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-20" value="&lt;h1 style=&quot;line-height: 0%;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 70%; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px; font-size: 9px;&quot;&gt;&lt;p style=&quot;box-sizing: inherit; margin: 0px 0px 22px; line-height: 70%; caret-color: rgb(33, 35, 56); color: rgb(33, 35, 56); font-family: metropolis;&quot;&gt;&lt;code style=&quot;box-sizing: inherit; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 2px 4px; color: rgb(199, 37, 78); background-color: rgb(249, 242, 244); border-radius: 4px; word-break: break-word;&quot;&gt;protocol HTTPClient {}&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: inherit; margin: 0px 0px 22px; line-height: 70%; caret-color: rgb(33, 35, 56); color: rgb(33, 35, 56); font-family: metropolis;&quot;&gt;&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; background-color: rgb(249, 242, 244); white-space: normal;&quot;&gt;class URLSessionHTTPClient: HTTPClient {}&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" vertex="1" parent="1">
+        <mxCell id="aVy8gvsZeT_dXRaZOsSa-20" value="&lt;h1 style=&quot;line-height: 0%;&quot;&gt;&lt;pre style=&quot;font-weight: 400; box-sizing: inherit; overflow: auto; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 9.5px; margin-top: 0px; margin-bottom: 10px; line-height: 70%; color: rgb(51, 51, 51); word-break: break-all; overflow-wrap: break-word; background-color: rgb(245, 245, 245); border: 1px solid rgb(204, 204, 204); border-radius: 4px; font-size: 9px;&quot;&gt;&lt;p style=&quot;box-sizing: inherit; margin: 0px 0px 22px; line-height: 70%; caret-color: rgb(33, 35, 56); color: rgb(33, 35, 56); font-family: metropolis;&quot;&gt;&lt;code style=&quot;box-sizing: inherit; font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; padding: 2px 4px; color: rgb(199, 37, 78); background-color: rgb(249, 242, 244); border-radius: 4px; word-break: break-word;&quot;&gt;protocol HTTPClient {}&lt;/code&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: inherit; margin: 0px 0px 22px; line-height: 70%; caret-color: rgb(33, 35, 56); color: rgb(33, 35, 56); font-family: metropolis;&quot;&gt;&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Menlo, Monaco, Consolas, &amp;quot;courier new&amp;quot;, monospace; background-color: rgb(249, 242, 244); white-space: normal;&quot;&gt;class URLSessionHTTPClient: HTTPClient {}&lt;/span&gt;&lt;/p&gt;&lt;/pre&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="380" y="180" width="270" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="580" as="sourcePoint" />
-            <mxPoint x="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-27" target="aVy8gvsZeT_dXRaZOsSa-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-27" target="aVy8gvsZeT_dXRaZOsSa-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-27" value="FeedViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="830" y="320" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-28" value="UIViewController" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="830" y="415" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-29" value="&amp;lt;FeedLoader&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="830" y="220" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=0;dashed=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-32" target="aVy8gvsZeT_dXRaZOsSa-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-32" value="RemoteFeedloader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="690" y="130" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-34" target="aVy8gvsZeT_dXRaZOsSa-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-34" value="LocalFeedloader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="970" y="130" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=0;dashed=1;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-36" target="aVy8gvsZeT_dXRaZOsSa-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-36" target="aVy8gvsZeT_dXRaZOsSa-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-36" value="RemoteWithLocalFeedbackFeedloader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="775" y="50" width="230" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aVy8gvsZeT_dXRaZOsSa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aVy8gvsZeT_dXRaZOsSa-36" target="aVy8gvsZeT_dXRaZOsSa-34">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
